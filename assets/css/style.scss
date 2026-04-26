@@ -46,3 +46,15 @@
   background-color: #388bfd;
   text-decoration: none;
 }
+
+.game-btn {
+  background-color: #8957e5; /* A nice vibrant purple */
+  border: 1px solid rgba(240, 246, 252, 0.1);
+  padding: 10px 24px; /* Makes this specific button a bit larger and more prominent */
+  font-size: 16px;
+}
+
+.game-btn:hover {
+  background-color: #a371f7;
+  text-decoration: none;
+}
